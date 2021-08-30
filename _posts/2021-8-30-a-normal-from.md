@@ -1,5 +1,5 @@
 
-# xHTML: Normal Form
+# xHTML: A normal Form
 
 How to make a normal form to submit anything to your JavaBean Class.
 
