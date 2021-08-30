@@ -1,13 +1,13 @@
 ---
 layout: post
-title: xHTML A normal Form
+title: xHTML A basic Form
 ---
 
-How to make a normal form to submit anything to your JavaBean Class.
+How to make a basic form to submit anything to your JavaBean Class.
 
 ## Task Description
 
-I am going to show how to make a normal form to submit things to your JavaBean Class. This is very useful because it makes it very easy to transfer information and work with it.
+I am going to show how to make a basic form to submit things to your JavaBean Class. This is very useful because it makes it very easy to transfer information and work with it.
 
 
 
@@ -52,4 +52,4 @@ The `<h:commandButton>` is the button that is showing. The `value="Submit"` is f
 
 ## Reflection
 
-The 
+I explained the whole form I showed. You should now be able to make a basic form by yourself.
