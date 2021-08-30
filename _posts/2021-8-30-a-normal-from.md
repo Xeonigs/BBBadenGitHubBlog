@@ -27,7 +27,7 @@ This is a task we did in our lessons. It is about a character customizer, where 
 </h:form>
 ```
 
-<<PICTURE>>
+![image](https://user-images.githubusercontent.com/86788562/131391923-f0adf18b-7a8c-45cd-9be7-74dbc7be21a9.png)
 
 The `<h:inputText>` of the form is for textBox that is showing. The `value="#{characterBean.eyeColor}"` defines the place where the value/text will be submitted to.
 
