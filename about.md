@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently an IMS-Student in Baden and looking for an internship. This is my blog where I post things I do in school or in private sometimes.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[davelukeeichenberger@bluewin.ch](mailto:davelukeeichenberger@bluewin.ch)
