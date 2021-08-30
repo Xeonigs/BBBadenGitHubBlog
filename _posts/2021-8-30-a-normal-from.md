@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: xhtml a normal form
 ---
 
 How to make a normal form to submit anything to your JavaBean Class.
