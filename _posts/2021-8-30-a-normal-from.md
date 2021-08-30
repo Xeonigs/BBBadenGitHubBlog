@@ -48,3 +48,6 @@ I have problem with concentrating in this modul, because I often do some IT stuf
 
 **Goals verification**
 1. I explained the whole form I showed. You should now be able to make a basic form by yourself.
+
+
+
