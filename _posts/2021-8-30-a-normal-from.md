@@ -21,9 +21,8 @@ This is a task we did in our lessons. It is about a character customizer, where 
 ```xhtml
 <h:form id="eyeColor-form">
             <h:outputLabel for="eyeColor"></h:outputLabel>
-            <h:inputText id="eyeColor" value="#{characterBean.eyeColor}" required="true" 									requiredMessage="Eye"></h:inputText>
-            <h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml">	
-    		</h:commandButton>
+            <h:inputText id="eyeColor" value="#{characterBean.eyeColor}" required="true" requiredMessage="Eye"></h:inputText>
+            <h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
 </h:form>
 ```
 
