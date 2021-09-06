@@ -40,9 +40,9 @@ The `<h:commandButton>` is the button that is showing. The `value="Submit"` is f
 <h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
 ```
 br
-````xml
-<h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
-````
+```xml
+<h:commandButton id="submit-button" />
+```
 
 ## Reflection
 
