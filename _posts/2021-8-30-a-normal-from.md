@@ -43,6 +43,10 @@ br
 ```xml
 <h:commandButton id="submit-button" />
 ```
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
 
 ## Reflection
 
