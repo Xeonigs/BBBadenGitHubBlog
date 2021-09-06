@@ -18,7 +18,7 @@ I am going to show how to make a basic form to submit things to your JavaBean Cl
 
 This is a task we did in our lessons. It is about a character customizer, where we can change the color of the hair, eye and more. This form will result in a normal form with a textBox and a submitButton.
 
-```xhtml
+```xml
 <h:form id="eyeColor-form">
             <h:outputLabel for="eyeColor"></h:outputLabel>
             <h:inputText id="eyeColor" value="#{characterBean.eyeColor}" required="true" requiredMessage="Eye"></h:inputText>
