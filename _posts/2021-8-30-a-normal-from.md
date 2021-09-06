@@ -30,13 +30,13 @@ This is a task we did in our lessons. It is about a character customizer, where 
 
 The `<h:inputText>` of the form is for textBox that is showing. The `value="#{characterBean.eyeColor}"` defines the place where the value/text will be submitted to.
 
-```xhtml
+```xml
 <h:inputText id="eyeColor" value="#{characterBean.eyeColor}" required="true" requiredMessage="Eye"></h:inputText>
 ```
 
 The `<h:commandButton>` is the button that is showing. The `value="Submit"` is for the type of the button and the `action="skinColorSelector.xhtml"` stands for the next page that will be opened. The action part can also be directed to a java file which makes pages dynamic.
 
-```xhtml
+```xml
 <h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
 ```
 
