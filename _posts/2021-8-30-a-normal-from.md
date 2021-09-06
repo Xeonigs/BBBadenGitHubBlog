@@ -18,28 +18,31 @@ I am going to show how to make a basic form to submit things to your JavaBean Cl
 
 This is a task we did in our lessons. It is about a character customizer, where we can change the color of the hair, eye and more. This form will result in a normal form with a textBox and a submitButton.
 
-``xml
+`xml
 <h:form id="eyeColor-form">
             <h:outputLabel for="eyeColor"></h:outputLabel>
             <h:inputText id="eyeColor" value="#{characterBean.eyeColor}" required="true" requiredMessage="Eye"></h:inputText>
             <h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
 </h:form>
-``
+`
 
 ![image](https://user-images.githubusercontent.com/86788562/131391923-f0adf18b-7a8c-45cd-9be7-74dbc7be21a9.png)
 
 The `<h:inputText>` of the form is for textBox that is showing. The `value="#{characterBean.eyeColor}"` defines the place where the value/text will be submitted to.
 
-```xml
+``xml
 <h:inputText id="eyeColor" value="#{characterBean.eyeColor}" required="true" requiredMessage="Eye"></h:inputText>
-```
+``
 
 The `<h:commandButton>` is the button that is showing. The `value="Submit"` is for the type of the button and the `action="skinColorSelector.xhtml"` stands for the next page that will be opened. The action part can also be directed to a java file which makes pages dynamic.
 
 ```xml
 <h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
 ```
-
+br
+````xml
+<h:commandButton id="submit-button" value="Submit" action="skinColorSelector.xhtml"></h:commandButton>
+````
 
 ## Reflection
 
